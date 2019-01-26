@@ -1,2 +1,1 @@
-# 12-Node-Express-Handlebars
-Assignment 12
+# 12-NodeExpress
